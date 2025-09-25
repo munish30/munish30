@@ -24,9 +24,7 @@ Currently building a high-performance data ingestion pipeline using **ClickHouse
 
 ### ⚙️ Backend
 
-<img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-4169e1?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-4169e1?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-4169e1?style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-4169e1?style=for-the-badge&logo=node.js&logoColor=white" />
 
 ### 🚀 DevOps & Infra
 
