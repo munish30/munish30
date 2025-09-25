@@ -5,21 +5,6 @@
 
 ---
 
-## 🔭 What I'm Working On
-
-Currently building a high-performance data ingestion pipeline using **ClickHouse** — planning to open-source the supporting infrastructure soon.
-
----
-
-## 👀 Areas of Interest
-
-* Site Reliability Engineering (SRE)
-* DevOps & Platform Engineering
-* Scalable Systems Design
-* Infrastructure as Code (IaC)
-
----
-
 ## 💻 Tech Stack
 
 ### ⚙️ Backend
@@ -32,6 +17,21 @@ Currently building a high-performance data ingestion pipeline using **ClickHouse
 
 ### 💬 Languages
 <img src="https://img.shields.io/badge/-YAML-000000?style=for-the-badge&logo=amazonec2&logoColor=white"/>   <img src="https://img.shields.io/badge/-shell scripting-000000?style=for-the-badge&logo=amazonec2&logoColor=white"/>   <img src="https://img.shields.io/badge/Python-FFA500?style=for-the-badge&logo=python&logoColor=white" />   <img src="https://img.shields.io/badge/TypeScript-FFA500?style=for-the-badge&logo=typescript&logoColor=white" />
+
+---
+
+## 🔭 What I'm Working On
+
+Currently building a high-performance data ingestion pipeline using **ClickHouse** — planning to open-source the supporting infrastructure soon.
+
+---
+
+## 👀 Areas of Interest
+
+* Site Reliability Engineering (SRE)
+* DevOps & Platform Engineering
+* Scalable Systems Design
+* Infrastructure as Code (IaC)
 
 
 ---
